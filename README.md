@@ -1,3 +1,5 @@
+![banner](https://github.com/EmikoHigashi/emikosh/blob/main/blob/banner.png)
+
 🌀 迷路をつくろう！
 Python で「自分だけの迷路」を作るプログラムです。
 
